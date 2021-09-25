@@ -1,0 +1,137 @@
+*{
+    margin: 0px;
+}
+
+.upper{
+    width: 1095px;
+    height: 50px;
+    background-color: white;
+    border: none;
+    margin-top: -25px;
+    margin-bottom: 10px;
+}
+
+.inv{
+    border: none;
+    background-color: white;
+}
+
+.inv:hover{
+    border: none;
+    background-color: rgb(211, 207, 207);
+}
+.l1{
+    position: relative;
+    margin-bottom: 30px;
+}
+.back{
+    position: absolute;
+    top: 40%;
+    left: 40%; 
+    color: white;
+}
+.back b{
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+.l2{
+    margin-left: 25px;
+    float: left;
+    margin-top: 20px;
+    position: relative; 
+}
+.text1{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+}
+.l2adj{
+    float: left;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.l3{
+    margin-left: 25px;
+    float: left;
+    margin-top: 20px;
+}
+.l3adj{
+    float: left;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.l4{
+    margin-bottom: 50px;
+}
+.l5{
+    float: left;
+    margin-left: 50px;
+}
+.l5 button{
+    border: none;
+    background-color:rgb(248, 233, 233);
+    margin-left: 30px;
+    box-shadow: 0px 0px 5px;
+    border: 2px none groove;
+}
+
+.l5adj1{
+    float: left;
+    margin-left: 50px;
+}
+.l5adj1 button{
+    border: none;
+    background-color:rgb(248, 233, 233);
+    margin-left: 30px;
+    box-shadow: 0px 0px 5px;
+    border: 2px none groove;
+}
+
+.l5adj2{
+    float: left;
+    margin-left: 50px;
+}
+.l5adj2 button{
+    border: none;
+    background-color:rgb(248, 233, 233);
+    margin-left: 30px;
+    box-shadow: 0px 0px 5px;
+    border: 2px none groove;
+}
+
+.l5adj3{
+    float: left;
+    margin-left: 50px;
+}
+.l5adj3 button{
+    border: none;
+    background-color:rgb(248, 233, 233);
+    margin-left: 30px;
+    box-shadow: 0px 0px 5px;
+    border: 2px none groove;
+    margin-bottom: 50px;
+}
+ 
+.l6 button{
+    background-color: black;
+    color: white;
+    
+
+}
+.l6{
+    margin-left: 30px;
+    margin-bottom: 50px;
+}
+.map{
+    margin-left: 50px;
+}
+.footer{
+    background-color:black;
+    color: white;
+    text-align: center;
+    font-size: small;
+    height: 80px;
+    padding-top: 40px;
+}
